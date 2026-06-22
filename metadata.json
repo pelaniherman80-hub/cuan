@@ -1,0 +1,6 @@
+{
+  "name": "VIRAL CUAN DOLAR",
+  "description": "Mesin Pengubah Video Panjang Menjadi Potongan Konten Shorts Kaya Dollar. Ubah video panjang menjadi konten pendek viral (Shorts, Reels, TikTok) berpotensi menghasilkan cuan besar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
